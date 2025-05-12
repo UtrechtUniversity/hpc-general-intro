@@ -22,7 +22,7 @@ format:
 
 ## What is HPC
 
-::: {.theme-section-large}
+::: {.theme-section}
 
 > HPC, known as supercomputing, is really nothing less than the ability to process complex (computational) tasks at very high speed.  The machine you use to do this is called a Supercomputer. (EuroCC Netherlands)
 
@@ -34,7 +34,7 @@ In the context of this HPC Spring school we use a simpler and broader definition
 
 ## HPC Spring School @ UU
 
-::: {.theme-section-large}
+::: {.theme-section}
 
 - Primers: Git and Bash
 - Supercomputing 1: Basics of supercomputing
@@ -48,7 +48,7 @@ In the context of this HPC Spring school we use a simpler and broader definition
 
 ## Overview of systems
 
-::: {.theme-section-large}
+::: {.theme-section}
 
 - \>20 'HPC' systems in Utrecht
   * Utrecht Bioinformatics Center (UBC)
@@ -61,7 +61,7 @@ In the context of this HPC Spring school we use a simpler and broader definition
 
 ## Getting started
 
-::: {.theme-section-large}
+::: {.theme-section}
 
 - Contact support team
   * Faculty IT
@@ -73,7 +73,7 @@ In the context of this HPC Spring school we use a simpler and broader definition
 
 ## Schedule today
 
-::: {.theme-section-large}
+::: {.theme-section}
 
 
 | Time | Chapter |
@@ -88,4 +88,4 @@ In the context of this HPC Spring school we use a simpler and broader definition
 
 # {data-background-color="#FFCD00"}
 
-![](../img/UU_logo_2021_EN_RGB_payoff.png)
+![](images/UU_logo_2021_EN_RGB_payoff.png)
