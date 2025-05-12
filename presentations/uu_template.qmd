@@ -1,163 +1,91 @@
 --- 
 format: 
   revealjs:
+    margin: 0
     theme: themes/uu.scss
     logo: images/UU_logo_2021_EN_RGB.png
-    footer: "John Doe"
+    footer: "UDCC"
 ---
 
-# Presentation title {data-background-color="#FFCD00"}
+# Welcome! {data-background-color="#FFCD00"}
 
-::: {.r-stack}
-Presentation subtitle
-:::
+## HPC Spring School @ UU
 
-::: {.footer}
-:::
+::: {.theme-section-large}
 
-# {data-background-color="#FFCD00"}
-
-:::::::::::::: {.columns}
-
-::: {.column width="40%"}
-
-::: {.subtitle}
-
-Title
-
-:::
-:::
-::: {.column width="60%"}
-![](images/image.jpg){fig-align="right" width="300"}
-:::
-::::::::::::::
-
-
-## Quarto
-::: {.theme-section}
-Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
-:::
-
-## Bullets
-::: {.theme-section}
-When you click the **Render** button a document will be generated that includes:
-
--   Content authored with markdown
--   Output from executable code
-:::
-## Line Highlighting
-::: {.theme-section}
-
--   Highlight specific lines for emphasis
--   Incrementally highlight additional lines
-
-``` {.python code-line-numbers="4-5|7|10"}
-import numpy as np
-import matplotlib.pyplot as plt
-r = np.arange(0, 2, 0.01)
-theta = 2 * np.pi * r
-fig, ax = plt.subplots(subplot_kw={'projection': 'polar'})
-ax.plot(theta, r)
-ax.set_rticks([0.5, 1, 1.5, 2])
-ax.grid(True)
-plt.show()
-```
-:::
-::: footer
-Learn more: [Line Highlighting](https://quarto.org/docs/presentations/revealjs/#line-highlighting)
-:::
-
-## Executable Code
-
-::: {.theme-section}
-
-```{r}
-#| echo: true
-#| fig-width: 10
-#| fig-height: 4.5
-plot(cars)
-```
+- SURF
+- EuroCC Netherlands
+- UDCC
+- Research Engineering team @ UU
 
 :::
 
-::: footer
-Learn more: [Executable Code](https://quarto.org/docs/presentations/revealjs/#executable-code)
+## What is HPC
+
+::: {.theme-section-large}
+
+> HPC, known as supercomputing, is really nothing less than the ability to process complex (computational) tasks at very high speed.  The machine you use to do this is called a Supercomputer. (EuroCC Netherlands)
+
+In the context of this HPC Spring school we use a simpler and broader definition:
+
+> Any system that provides computational power beyond your own computer. This can be a single (remote) machine, a cluster of machines, or a cloud platform.
+
 :::
 
-## LaTeX Equations
+## HPC Spring School @ UU
 
-::: {.theme-section}
+::: {.theme-section-large}
 
-[MathJax](https://www.mathjax.org/) rendering of equations to HTML
+- Primers: Git and Bash
+- Supercomputing 1: Basics of supercomputing
+- Supercomputing 2: File systems, performance, and parallel computing
+- SURF Research cloud: Introduction and Advanced
+- Parallellization with MPI
+- Energy-efficient Computing
+- High Performance Deep Learning
 
-:::: columns
-::: {.column width="40%"}
-``` tex
-\begin{gather*}
-a_1=b_1+c_1\\
-a_2=b_2+c_2-d_2+e_2
-\end{gather*}
-\begin{align}
-a_{11}& =b_{11}&
-  a_{12}& =b_{12}\\
-a_{21}& =b_{21}&
-  a_{22}& =b_{22}+c_{22}
-\end{align}
-```
 :::
 
-::: {.column width="60%"}
-```{=tex}
-\begin{gather*}
-a_1=b_1+c_1\\
-a_2=b_2+c_2-d_2+e_2
-\end{gather*}
-```
-```{=tex}
-\begin{align}
-a_{11}& =b_{11}&
-  a_{12}& =b_{12}\\
-a_{21}& =b_{21}&
-  a_{22}& =b_{22}+c_{22}
-\end{align}
-```
-:::
-::::
+## Overview of systems
+
+::: {.theme-section-large}
+
+- \>20 'HPC' systems in Utrecht
+  * Utrecht Bioinformatics Center (UBC)
+  * Faculty systems (Gemini, Eejit, etc)
+- National supercomputer Snellius 
+- SURF Research cloud
+- European supercomputer LUMI (#8 in the world)
+
 :::
 
-::: footer
-Learn more: [LaTeX Equations](https://quarto.org/docs/authoring/markdown-basics.html#equations)
+## Getting started
+
+::: {.theme-section-large}
+
+- Contact support team
+  * Faculty IT
+  * UU HPC consultancy team
+  * UBC support team
+  * Surf servicedesk
+
 :::
 
-## Column Layout {.smaller}
+## Schedule today
 
-::: {.theme-section}
-
-Arrange content into columns of varying widths:
-
-:::: columns
-::: {.column width="35%"}
-#### Motor Trend Car Road Tests
-
-The data was extracted from the 1974 Motor Trend US magazine, and comprises fuel consumption and 10 aspects of automobile design and performance for 32 automobiles.
-:::
-
-::: {.column width="3%"}
-:::
-
-::: {.column width="62%"}
-```{r}
-plot(cars)
-```
-:::
-::::
-::: 
+::: {.theme-section-large}
 
 
-::: footer
-Learn more: [Multiple Columns](https://quarto.org/docs/presentations/revealjs/#multiple-columns)
+| Time | Chapter |
+|---|---|
+| 9:30 | Part 1 |
+| 11:00	| Coffee break |
+| 11:15	| Part 2 |
+| 12:30 | End and lunch |
+: {.striped}
+
 :::
 
 # {data-background-color="#FFCD00"}
 
-![](images/UU_logo_2021_EN_RGB_payoff.png)
+![](../img/UU_logo_2021_EN_RGB_payoff.png)
