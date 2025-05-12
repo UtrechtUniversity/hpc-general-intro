@@ -1,3 +1,4 @@
+
 /*-- scss:defaults --*/
 // importing fonts
 @import url('https://fonts.googleapis.com/css?family=Merriweather:wght@300&family=Open+Sans&display=swap');
@@ -9,17 +10,31 @@ $font-family-sans-serif: 'Nunito', Tahoma, sans-serif !default;
 // headings
 $presentation-heading-font: 'Merriweather',  Tahoma, sans-serif  !default;
 $presentation-heading-color: #000000 !default;
-$presentation-h1-font-size: 1.5em !default;
-$h2-font-size: 1.3em !default;
-$h3-font-size: 1.15em !default;
+$h1-font-size: 3.0em !default;
+$h2-font-size: 2.7em !default;
+$h3-font-size: 2.15em !default;
 
 section.slide h1 {
+  margin-left: 5vw;
+}
+
+section.slide h2 {
+  color: black !important;
+  background-color: #FFCD00 !important;
+  width: 100%;
+  position: relative;
+  left: -20vw;
+  padding-left: 20vw;
+  padding-right: 20vw;
+  padding-top: 30px;
+  padding-bottom: 10px;
   margin-left: 5vw;
 }
 
 .theme-section {
   text-align: left;
   margin-top: 1.2em;
+  margin-left: 5vw;
 }
 
 .theme-section-large {
@@ -29,10 +44,14 @@ section.slide h1 {
   font-size: 1.5em;
 }
 
-
 //code
 $code-color: #883080 !default;
 $font-family-monospace: 'Inconsolata', monospace  !default;
+$code-color: #900C3F;
+$code-bg: #F7F7F7;  
+$code-block-font-size: 1em;
+$code-block-bg: #F7F7F7;
+
 
 // general  
 $body-bg: #FFFFFF;
@@ -48,11 +67,9 @@ $presentation-font-size-root: 35px;
   margin: 0.2em;
 }
 
-
 .cell {
   margin: 1em; // This adds spacing of 1em around the code cells
 }
-
 
 .subtitle {
   color: #000000;
@@ -82,6 +99,9 @@ $presentation-font-size-root: 35px;
     color: #000000;
 }
 
+.reveal li {
+  padding: 10px; 
+}
 
 .center-x{
     text-align: center;
@@ -95,9 +115,9 @@ section.has-dark-background a, section.has-dark-background a:hover {
 .slide-logo {
   display: block !important;
   position: fixed !important;
-  bottom: 0 !important;
-  left: 10px !important;
-  max-height: 15% !important;
+  top: 0% !important;
+  left: 80% !important;
+  max-height: 10% !important;
   height: 100% !important;
   width: auto !important;
   color: $body-color !important;
@@ -110,6 +130,7 @@ section.has-dark-background a, section.has-dark-background a:hover {
   color: #000000 !important;
 }
 
+/*-- scss:rules --*/
 .table-striped {
   font-size: smaller;
   > tbody > tr:nth-of-type(odd) > * {
