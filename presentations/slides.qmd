@@ -78,3 +78,18 @@ format:
 # {data-background-color="#FFCD00"}
 
 ![](images/UU_logo_2021_EN_RGB_payoff.png)
+
+## Thank you for your participation!
+::: {.theme-section-large}
+
+- [SURF](www.surf.nl)
+- [EuroCC Netherlands](https://eurocc-netherlands.nl/)
+- [UDCC](https://www.uu.nl/en/research/digital-competence-center)
+- [Research Engineering team @ UU](https://www.uu.nl/en/research/research-data-management/tools/software-and-computing/high-performance-and-cloud-computing)
+- Find these slides including hyperlinks at: edu.nl/mhkc3
+
+Please fill out the survey for this workshop:
+![](https://edu.nl/duaqj~?format=png)
+
+:::
+
