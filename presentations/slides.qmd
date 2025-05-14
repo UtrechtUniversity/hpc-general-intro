@@ -80,13 +80,28 @@ format:
 ![](images/UU_logo_2021_EN_RGB_payoff.png)
 
 ## Thank you for your participation!
-::: {.theme-section}
 
+::: {.theme-section}
+:::: {.columns}
+
+::: {.column width="40%"}
 - [SURF](www.surf.nl)
 - [EuroCC Netherlands](https://eurocc-netherlands.nl/)
 - [UDCC](https://www.uu.nl/en/research/digital-competence-center)
 - [Research Engineering team @ UU](https://www.uu.nl/en/research/research-data-management/tools/software-and-computing/high-performance-and-cloud-computing)
-- Find these slides including hyperlinks at: edu.nl/mhkc3
+:::
+
+::: {.column width="60%"}
+Find these slides including hyperlinks here:
+
+![](https://edu.nl/mhkc3~?format=png)
+
+:::
+
+::::
+
+
+
 
 :::
 
@@ -95,6 +110,7 @@ format:
 ::: {.theme-section}
 
 Please fill out the survey for this workshop, and the survey about HPC training in Europe*:
+
 ![](https://edu.nl/duaqj~?format=png)
 
 *link is provided in workshop survey.
