@@ -85,7 +85,7 @@ format:
 :::: {.columns}
 
 ::: {.column width="40%"}
-- [SURF](www.surf.nl)
+- [SURF](https://www.surf.nl/en)
 - [EuroCC Netherlands](https://eurocc-netherlands.nl/)
 - [UDCC](https://www.uu.nl/en/research/digital-competence-center)
 - [Research Engineering team @ UU](https://www.uu.nl/en/research/research-data-management/tools/software-and-computing/high-performance-and-cloud-computing)
