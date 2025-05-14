@@ -80,7 +80,7 @@ format:
 ![](images/UU_logo_2021_EN_RGB_payoff.png)
 
 ## Thank you for your participation!
-::: {.theme-section-large}
+::: {.theme-section}
 
 - [SURF](www.surf.nl)
 - [EuroCC Netherlands](https://eurocc-netherlands.nl/)
@@ -88,8 +88,15 @@ format:
 - [Research Engineering team @ UU](https://www.uu.nl/en/research/research-data-management/tools/software-and-computing/high-performance-and-cloud-computing)
 - Find these slides including hyperlinks at: edu.nl/mhkc3
 
-Please fill out the survey for this workshop:
+:::
+
+## Survey
+
+::: {.theme-section}
+
+Please fill out the survey for this workshop, and the survey about HPC training in Europe*:
 ![](https://edu.nl/duaqj~?format=png)
 
+*link is provided in workshop survey.
 :::
 
