@@ -20,18 +20,6 @@ format:
 
 :::
 
-## What is HPC
-
-::: {.theme-section}
-
-> HPC, known as supercomputing, is really nothing less than the ability to process complex (computational) tasks at very high speed.  The machine you use to do this is called a Supercomputer. (EuroCC Netherlands)
-
-In the context of this HPC Spring school we use a simpler and broader definition:
-
-> Any system that provides computational power beyond your own computer. This can be a single (remote) machine, a cluster of machines, or a cloud platform.
-
-:::
-
 ## HPC Spring School @ UU
 
 ::: {.theme-section}
@@ -81,7 +69,8 @@ In the context of this HPC Spring school we use a simpler and broader definition
 | 9:30 | Part 1 |
 | 11:00	| Coffee break |
 | 11:15	| Part 2 |
-| 12:30 | End and lunch |
+| 12:30 | Lunch |
+| 14:30 | End |
 : {.striped}
 
 :::
