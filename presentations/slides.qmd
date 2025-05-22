@@ -20,20 +20,6 @@ format:
 
 :::
 
-## HPC Spring School @ UU
-
-::: {.theme-section}
-
-- Primers: Git and Bash
-- Supercomputing 1: Basics of supercomputing
-- Supercomputing 2: File systems, performance, and parallel computing
-- SURF Research cloud: Introduction and Advanced
-- Parallellization with MPI
-- Energy-efficient Computing
-- High Performance Deep Learning
-
-:::
-
 ## Overview of systems
 
 ::: {.theme-section}
@@ -70,7 +56,8 @@ format:
 | 11:00	| Coffee break |
 | 11:15	| Part 2 |
 | 12:30 | Lunch |
-| 14:30 | End |
+| 14:30 | Coffe break |
+| 17:00 | End |
 : {.striped}
 
 :::
