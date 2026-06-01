@@ -15,7 +15,8 @@ format:
 
 - SURF
 - EuroCC Netherlands
-- UDCC
+- Netherlands eScienceCenter
+- UU Digital Competence Center
 - Research Engineering team @ UU
 
 :::
@@ -45,6 +46,12 @@ format:
 
 :::
 
+## Parallel programming call
+
+::: {.theme-section}
+
+:::
+
 ## Schedule today
 
 ::: {.theme-section}
@@ -52,12 +59,9 @@ format:
 
 | Time | Chapter |
 |---|---|
-| 9:30 | Part 1 |
+| 9:30 | Bash, navigation, editing files |
 | 11:00	| Coffee break |
-| 11:15	| Part 2 |
-| 12:30 | Lunch |
-| 14:30 | Coffe break |
-| 17:00 | End |
+| 12:30 | Scripts, filters, SSH/SCP |
 : {.striped}
 
 :::
