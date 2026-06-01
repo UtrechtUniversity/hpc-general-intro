@@ -61,9 +61,11 @@ format:
 ---
 
 ::: {.r-stack}
-![](presentations/images/parallel-call.png)
 
-![](presentations/images/qr_gb7ak.png){.absolute bottom=20 right=100 width="300" height="300"}
+![](images/parallel-call.png)
+
+![](images/qr_gb7ak.png){.absolute bottom=20 right=100 width="300" height="300"}
+
 :::
 
 ## Schedule today
