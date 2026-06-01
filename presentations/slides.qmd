@@ -21,6 +21,18 @@ format:
 
 :::
 
+## HPC Spring School @ UU
+
+::: {.theme-section}
+
+- Primers: Git and Bash
+- Supercomputing 1, 2, and 3
+- SURF Research cloud: Introduction and Advanced
+- Parallel and distributed computing with Python
+- GPU computing
+
+:::
+
 ## Overview of systems
 
 ::: {.theme-section}
