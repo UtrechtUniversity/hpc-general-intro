@@ -46,10 +46,12 @@ format:
 
 :::
 
-## Parallel programming call
+---
 
-::: {.theme-section}
+::: {.r-stack}
+![](images/parallel-call.png)
 
+![](images/qr_gb7ak.png){.absolute bottom=20 right=100 width="300" height="300"}
 :::
 
 ## Schedule today
@@ -100,10 +102,9 @@ Find these slides including hyperlinks here:
 
 ::: {.theme-section}
 
-Please fill out the survey for this workshop, and the survey about HPC training in Europe*:
+Please fill out the survey for this workshop:
 
 ![](https://edu.nl/duaqj~?format=png)
 
-*link is provided in workshop survey.
 :::
 
